@@ -2,13 +2,13 @@
 
 Script for snake plot depiction of rhodopsin data in ggplot
 
-## Rhodopsin snake plot coloured by site
+### Rhodopsin snake plot coloured by site
 ![Rhodopsin snake plot coloured by site](https://github.com/alexvannynatten/rhodopsin_snake_plot/blob/4acc12b8091c1a71e0870fa4faebc929526dd1b8/Rhodpsin_snake_plot_1.png)
 
-## Rhodopsin snake plot depicting variation in structure and function across sites
+### Rhodopsin snake plot depicting variation in structure and function across sites
 ![Rhodopsin snake plot depicting variation in structure and function across sites](https://github.com/alexvannynatten/rhodopsin_snake_plot/blob/4acc12b8091c1a71e0870fa4faebc929526dd1b8/Rhodpsin_snake_plot_2.png)
 
-## Rhodopsin snake plot depicting variation in dN/dS and locations of known substitutions associated with retinitis pigmentosa
+### Rhodopsin snake plot depicting variation in dN/dS and locations of known substitutions associated with retinitis pigmentosa
 ![Rhodopsin snake plot depicting variation in dN/dS and locations of known substitutions associated with retinitis pigmentosa](https://github.com/alexvannynatten/rhodopsin_snake_plot/blob/4acc12b8091c1a71e0870fa4faebc929526dd1b8/Rhodpsin_snake_plot_3.png)
 
 ## R code:
